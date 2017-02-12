@@ -5,6 +5,9 @@ collections:
   books:
     title: Books
     output: true
+  highlights:
+    title: Highlights
+    output: true
   posts:
     title: Posts
     output: true
