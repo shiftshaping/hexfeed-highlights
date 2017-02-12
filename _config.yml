@@ -2,6 +2,9 @@
 title: Hexfeed Highlights
 timezone: UTC
 collections:
+  books:
+    title: Books
+    output: true
   posts:
     title: Posts
     output: true
